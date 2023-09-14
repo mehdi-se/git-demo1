@@ -2,3 +2,4 @@ This line is written in main branch.
 This line is also written in main branch.
 
 This line is written in feature2 branch.
+This line is also written in feature2 branch.
