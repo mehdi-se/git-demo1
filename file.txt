@@ -7,5 +7,10 @@ This line is written in feature2 branch.
 This line is also written in feature2 branch.
 This is third line written in feature2 branch.
 
+This line is written in feature3 branch.
+This line is also written in feature3 branch.
+This is third line written in feature3 branch.
+
 This line is written in feature4 branch.
 This line is also written in feature4 branch.
+
